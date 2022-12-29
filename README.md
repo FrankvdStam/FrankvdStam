@@ -3,10 +3,10 @@
 ### Hi there 👋
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>&nbsp;
 
-  [![linkedin](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/frank-van-der-stam-9b003b153)
-  [![Discord](https://img.shields.io/badge/-Discord-blue)](https://discord.com/users/281116269921566721) 
-  <a href="https://www.youtube.com/@1wasted"><img src="https://img.shields.io/badge/-YouTube-red"></a>
   [![github](https://komarev.com/ghpvc/?username=FrankvdStam&color=blue)](https://github.com/FrankvdStam)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/frank-van-der-stam-9b003b153)
+  [![Discord](https://img.shields.io/badge/-Discord-blue)](https://discord.com/users/281116269921566721)
+  [![youtube](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/@1wasted)
 </div>
 
 ---
@@ -57,3 +57,5 @@ Over the years I wrote a few open source libraries:
 - [SoulMemory](https://www.nuget.org/packages/SoulMemory/) read soulsgames memory values from outside the game, like player health, or game-event statuses.
 - [cooler_master_sdk](https://crates.io/crates/cooler_master_sdk) Rust bindings for cooler master's SDK, to control your LED keyboard from Rust.
 - [mem-rs](https://crates.io/crates/mem-rs) Lightweight memory reading library for Rust (same aim as SoulMemory).
+
+
