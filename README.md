@@ -1,12 +1,12 @@
 <div id="header" align="center">
 
 ### Hi there 👋
-  <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" width="500"/>&nbsp;
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>&nbsp;
 
   [![linkedin](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/frank-van-der-stam-9b003b153)
   [![Discord](https://img.shields.io/badge/-Discord-blue)](https://discord.com/users/281116269921566721) 
   <a href="https://www.youtube.com/@1wasted"><img src="https://img.shields.io/badge/-YouTube-red"></a>
-  [![github](https://komarev.com/ghpvc/?username=FrankvdStam&color=blueviolet)](https://github.com/FrankvdStam)
+  [![github](https://komarev.com/ghpvc/?username=FrankvdStam&color=blue)](https://github.com/FrankvdStam)
 </div>
 
 ---
@@ -45,8 +45,8 @@ I am a .NET professional and low-level hobbyist from the Netherlands
 
 ### My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrankvdStam&theme=dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankvdStam&theme=dark&exclude_repo=cazel,CVulkan,PoisonPicker)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrankvdStam&background=003140&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankvdStam&bg_color=003140&theme=dark&exclude_repo=cazel,CVulkan,PoisonPicker)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
