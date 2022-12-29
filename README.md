@@ -45,7 +45,7 @@ I am a .NET professional and low-level hobbyist from the Netherlands
 
 ### My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrankvdStam&background=003140&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrankvdStam&background=003140&theme=dark&mode=weekly)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankvdStam&bg_color=003140&theme=dark&exclude_repo=cazel,CVulkan,PoisonPicker)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
