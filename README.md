@@ -1,7 +1,10 @@
 <div id="header" align="center">
 
-### Hi there 👋
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>&nbsp;
+
+# Hi there 👋
+ 
+  <img src="images/wasted1.png" width="300"/>&nbsp;
+ 
 
   [![github](https://komarev.com/ghpvc/?username=FrankvdStam&color=blue)](https://github.com/FrankvdStam)
   [![linkedin](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/frank-van-der-stam-9b003b153)
@@ -58,4 +61,6 @@ Over the years I wrote a few open source libraries:
 - [cooler_master_sdk](https://crates.io/crates/cooler_master_sdk) Rust bindings for cooler master's SDK, to control your LED keyboard from Rust.
 - [mem-rs](https://crates.io/crates/mem-rs) Lightweight memory reading library for Rust (same aim as SoulMemory).
 
-
+<div id="header" align="center">
+  <img src="images/wasted2.png" width="300"/>&nbsp;
+</div>
