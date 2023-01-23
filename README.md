@@ -29,7 +29,7 @@ I am a .NET professional and low-level hobbyist from the Netherlands
 
 ### My favourite technologies:
 
-<div>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"         title="CSharp"     alt="Azure"      width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet"     alt="DotNet"     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
@@ -48,8 +48,15 @@ I am a .NET professional and low-level hobbyist from the Netherlands
 
 ### My stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrankvdStam&background=003140&theme=dark&mode=weekly)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankvdStam&bg_color=003140&theme=dark&exclude_repo=cazel,CVulkan,PoisonPicker)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=FrankvdStam&background=003140&theme=dark&mode=weekly" />
+</a>
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankvdStam&bg_color=003140&theme=dark&exclude_repo=cazel,CVulkan,PoisonPicker&card_width=445&layout=compact" />
+</a>
+ </div>
 
 ---
 
@@ -61,6 +68,6 @@ Over the years I wrote a few open source libraries:
 - [cooler_master_sdk](https://crates.io/crates/cooler_master_sdk) Rust bindings for cooler master's SDK, to control your LED keyboard from Rust.
 - [mem-rs](https://crates.io/crates/mem-rs) Lightweight memory reading library for Rust (same aim as SoulMemory).
 
-<div id="header" align="center">
+<div align="center">
   <img src="images/wasted2.png" width="300"/>&nbsp;
 </div>
