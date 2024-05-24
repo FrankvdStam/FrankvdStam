@@ -62,11 +62,18 @@ I am a .NET professional and low-level hobbyist from the Netherlands
 
 ### Libraries:
 Over the years I wrote a few open source libraries:
-- [DenonLib](https://www.nuget.org/packages/DenonLib/) talks to your Denon AVR device (sound system) with C#.
-- [GridConsole](https://www.nuget.org/packages/GridConsole/) super simple and lightweight UI for console apps in C#.
-- [SoulMemory](https://www.nuget.org/packages/SoulMemory/) read soulsgames memory values from outside the game, like player health, or game-event statuses.
-- [cooler_master_sdk](https://crates.io/crates/cooler_master_sdk) Rust bindings for cooler master's SDK, to control your LED keyboard from Rust.
-- [mem-rs](https://crates.io/crates/mem-rs) Lightweight memory reading library for Rust (with the same goal in mind as SoulMemory).
+- [![DenonLib](https://img.shields.io/nuget/dt/DenonLib?logo=nuget&label=DenonLib)](https://www.nuget.org/packages/DenonLib/)
+  talks to your Denon AVR device (sound system) with C#.
+- [![GridConsole](https://img.shields.io/nuget/dt/GridConsole?logo=nuget&label=GridConsole)](https://www.nuget.org/packages/GridConsole/)
+  super simple and lightweight UI for console apps in C#.
+- [![SoulMemory](https://img.shields.io/nuget/dt/SoulMemory?logo=nuget&label=SoulMemory)](https://www.nuget.org/packages/SoulMemory/)
+  read soulsgames memory values from outside the game, like player health, or game-event statuses.
+- [![cooler_master_sdk](https://img.shields.io/crates/d/cooler_master_sdk?logo=rust&label=cooler_master_sdk
+)](https://crates.io/crates/cooler_master_sdk)
+  Rust bindings for cooler master's SDK, to control your LED keyboard from Rust.
+- [![mem-rs](https://img.shields.io/crates/d/mem-rs?logo=rust&label=mem-rs
+)](https://crates.io/crates/mem-rs)
+  Lightweight memory reading library for Rust (with the same goal in mind as SoulMemory).
 
 <div align="center">
   <img src="images/wasted2.png" width="300"/>&nbsp;
